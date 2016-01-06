@@ -1,0 +1,1 @@
+This repos represents the first leg of my journey with Launch School.
